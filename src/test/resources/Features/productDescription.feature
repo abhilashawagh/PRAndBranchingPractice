@@ -13,7 +13,7 @@ Feature: Title of your feature
     Then I validate the outcomes
     And check more outcomes
     
-     @tag2*7/2
+     @tag2
   Scenario: Title of your scenario
     Given I want to write a step with precondition
     And some other precondition
